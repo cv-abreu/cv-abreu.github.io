@@ -1,0 +1,40 @@
+.body{
+
+    max-width:25%;
+    background-color: pink;
+
+}
+
+#calculadora{
+    position:fixed;
+    top:15%;
+    width:10%;
+    height:30%;
+    background-color:rgba(244, 127, 166, 0.378);
+    
+
+}
+
+.tela{
+    position:fixed;
+    top:25%;
+    width:10%;
+    height:20%;
+    background-color: rgb(200, 107, 122);
+}
+
+.teclas{
+    display:table-row-group;
+    position:fixed;
+    width:10%;
+    height:20%;
+}
+#display{
+    background-color: black;
+    color:white;
+    position:fixed;
+    text-align:center;
+    top:15%;
+    width:10%;
+    height:10%;
+}
